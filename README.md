@@ -1,7 +1,5 @@
 # Projeto-Laravel-CRUD
 
-# Projeto CRUD de Produtos com Laravel
-
 Este é um projeto de demonstração de um CRUD (Create, Read, Update, Delete) completo, desenvolvido com o framework Laravel. A aplicação permite gerenciar um cadastro de produtos de forma segura e eficiente.
 
 ## Funcionalidades Implementadas
